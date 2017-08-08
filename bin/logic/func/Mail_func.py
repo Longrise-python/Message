@@ -36,7 +36,5 @@ def getInstance():
 def main():
     Mail_func()
 
-
-
 if __name__ == "__main__":
     main()
